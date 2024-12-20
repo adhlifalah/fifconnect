@@ -3,7 +3,6 @@
     font: 32px Viga;
 }
 
-
 /* Jumbotron */
 .jumbotron {
     background: url(../img/fifgroup-bg.jpg);
@@ -25,7 +24,7 @@
 
 .jumbotron .container {
     color: white;
-    text-align: center;
+    text-align: left;
     position: relative;
     z-index: 1;
 }
@@ -41,8 +40,6 @@
 .jumbotron .display-4 span {
     font-weight: 500;
 }
-
-
 
 /* Info Panel */
 .info-panel {
@@ -65,8 +62,6 @@
     font-weight: lighter;
     color: #acacac;
 }
-
-
 
 /* Workingspace */
 .workingspace {
@@ -112,7 +107,6 @@
     width: 80px;
     height: 80px;
     margin: 10px;
-    /* border-radius: 50%; */
     filter: grayscale(1);
 }
 
@@ -177,8 +171,8 @@
     }
 
     .jumbotron .display-4 {
-        font-size: 5em;
-        margin-top: 150px;
+        font-size: 2em;
+        margin-top: 20px;
     }
 
 
